@@ -1,6 +1,6 @@
 ![Web Developer](https://media.licdn.com/dms/image/C5616AQHAQLTDkjEP4A/profile-displaybackgroundimage-shrink_350_1400/0/1648397222351?e=1689206400&v=beta&t=I8aUZAPZdgETkJOoPjrnoy1wEXlOPgQG4xJ3PeAdg_0)
 
-### Hi there 👋, I'm Apurbo Deb Nath
+### Hi there, I'm Apurbo Deb Nath
 #### Web Developer
 
 
