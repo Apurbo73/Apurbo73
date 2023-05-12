@@ -8,7 +8,7 @@ I'm Apurbo Deb Nath. Full stack web developer. I have experience in Web Design. 
 
 Skills:  REACT / JS / HTML / CSS / Redux /Redux Toolkit / Bootstrap / Tailwind
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning RTK Query 
 - 💬 Ask me about Web Development 
 
