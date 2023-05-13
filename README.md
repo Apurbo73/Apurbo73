@@ -1,6 +1,7 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fqrangers.com%2Fcourses%2Fintroduction-to-3-d-animation-2%2F&psig=AOvVaw0FSb7Mr-HHjrXWmBFIN3Oc&ust=1684099773763000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjdoOaf8_4CFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Apurbo Deb Nath</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" width="400" src="https://media.licdn.com/dms/image/C5616AQHAQLTDkjEP4A/profile-displaybackgroundimage-shrink_350_1400/0/1648397222351?e=1689206400&v=beta&t=I8aUZAPZdgETkJOoPjrnoy1wEXlOPgQG4xJ3PeAdg_0">
+<img align="right" width="400" src="https://static.vecteezy.com/system/resources/previews/008/826/724/original/programmer-developer-engineer-with-laptop-sitting-at-the-office-desk-holding-a-pen-while-coding-and-developing-concept-illustration-free-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbo73&label=Profile%20views&color=0e75b6&style=flat" alt="apurbo73" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Chat Application (RTK Query)**
