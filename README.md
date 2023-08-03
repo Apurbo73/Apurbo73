@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Full Stack Chat Application (RTK Query)**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Prisma**
 
-- 💬 Ask me about **React, Redux, Redux Toolkit Query, JavaScript, Front-End Developing**
+- 💬 Ask me about **React, Redux, Redux Toolkit Query, JavaScript, Front-End Developing, MERN Stack**
 
 - 📫 How to reach me **apurbodebnath50@gmail.com**
 
