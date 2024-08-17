@@ -1,4 +1,4 @@
-<p><img width="1000" height="400" src="https://miro.medium.com/v2/resize:fit:780/0*c76zWkylO5ltFqsR.jpg" /></p>
+<p><img width="1000" height="400" src="https://www.nita.edu.sa/images/thumbs/0001200_web-development-beginner.jpeg" /></p>
 
  
  
