@@ -1,4 +1,4 @@
-<img src=[[https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40deepanshumatebiz%2F4-stages-of-website-development-from-planning-to-launch-34a9fddd2091&psig=AOvVaw0UBVFIPfEi_wXZ62J9a-R2&ust=1723996756138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDj5cSy_IcDFQAAAAAdAAAAABAP)](https://miro.medium.com/v2/resize:fit:780/0*c76zWkylO5ltFqsR.jpg)">
+<img src="(https://miro.medium.com/v2/resize:fit:780/0*c76zWkylO5ltFqsR.jpg)">
 
 <h1 align="center">Hi, I'm Apurbo Deb Nath</h1>
 <h3 align="center">A Passionate Web Developer From Sylhet, Bangladesh</h3>
