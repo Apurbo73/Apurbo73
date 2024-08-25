@@ -1,4 +1,4 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurbo73&show_icons=true&locale=en&layout=compact" alt="apurbo73" /></p>
+<img align="left" src="https://media.istockphoto.com/id/1469706272/photo/web-design-coding-and-asian-man-with-a-computer-for-programming-a-website-at-night-cyber.jpg?s=1024x1024&w=is&k=20&c=1ZUGKcrBBRqEi3piktVDu3_SYU953jgSC6dJlAyNCCI=" alt="apurbo73" />
 
  
  
