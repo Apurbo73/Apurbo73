@@ -1,7 +1,5 @@
-    <video width="640" height="360" >
-        <source src="https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4" type="video/mp4">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurbo73&show_icons=true&locale=en&layout=compact" alt="apurbo73" /></p>
 
-    </video>
  
  
  <h1 align="center">Hi, I'm Apurbo Deb Nath</h1>
