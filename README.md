@@ -1,4 +1,4 @@
-<img height="500" width="600" src="https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg" alt="apurbo73" />
+<img height="500" src="https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg" alt="apurbo73" />
 
  
  
