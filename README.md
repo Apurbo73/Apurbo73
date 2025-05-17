@@ -1,5 +1,4 @@
-<img height="500" src="https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg " alt="apurbo73" />
-
+<img align="right" width="350" src="https://static.vecteezy.com/system/resources/previews/008/826/724/original/programmer-developer-engineer-with-laptop-sitting-at-the-office-desk-holding-a-pen-while-coding-and-developing-concept-illustration-free-vector.jpg">
  
  
  <h1 align="center">Hi, I'm Apurbo Deb Nath</h1>
