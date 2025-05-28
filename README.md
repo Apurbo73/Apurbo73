@@ -25,11 +25,11 @@
 </p>
 
 
-<a href="https://linkedin.com/in/apubdofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apubdofficial" height="30" width="20" /></a>
-<a href="https://codeforces.com/profile/apurbo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apurbo73" height="30" width="20" /></a>
+<a href="https://linkedin.com/in/apubdofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apubdofficial" height="" width="" /></a>
+<a href="https://codeforces.com/profile/apurbo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apurbo73" height="" width="" /></a>
 
 
-<a href="https://www.codechef.com/users/apurbo_7350" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="apurbo73" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/apurbo_7350" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="apurbo73" height="" width="" /></a>
 
 
 
