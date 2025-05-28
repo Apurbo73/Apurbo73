@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://linkedin.com/in/apubdofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apubdofficial" height="30" width="15" /></a>
-<a href="https://codeforces.com/profile/apurbo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apurbo73" height="30" width="15" /></a>
+<a href="https://linkedin.com/in/apubdofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apubdofficial" height="30" width="20" /></a>
+<a href="https://codeforces.com/profile/apurbo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apurbo73" height="30" width="20" /></a>
 
 
 <a href="https://www.codechef.com/users/apurbo_7350" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="apurbo73" height="30" width="30" /></a>
