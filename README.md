@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **competitive Programming**
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently focusing on **competitive Programming**
 
 - 💬 Ask me about **React, Redux, Redux Toolkit Query, JavaScript, Front-End Developing, MERN Stack**
 
