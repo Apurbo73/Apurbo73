@@ -25,7 +25,7 @@
 </p>
 
 
-<a href="https://linkedin.com/in/apubdofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apubdofficial" height="" width="" /></a>
+<a href="https://linkedin.com/in/apubdofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apubdofficial" height="50" width="50" /></a>
 <a href="https://codeforces.com/profile/apurbo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apurbo73" height="" width="" /></a>
 
 
