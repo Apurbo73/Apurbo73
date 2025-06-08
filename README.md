@@ -17,7 +17,7 @@
 <p align="">
  
 <a href="https://linkedin.com/in/apubdofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apubdofficial" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/apurbo_7350" target="blank"><img align="center" src="https://pbs.twimg.com/media/EBvl9IXXUAAztHs.png" alt="apurbo73" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/apurbo_7350" target="blank"><img align="center" src="https://pbs.twimg.com/media/EBvl9IXXUAAztHs.png" alt="apurbo73" height="30" width="50" /></a>
 
 
 
