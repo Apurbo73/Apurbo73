@@ -17,7 +17,7 @@
 <p align="">
  
 <a href="https://linkedin.com/in/apubdofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apubdofficial" height="30" width="30" /></a>
-<a href="https://codeforces.com/profile/apurbo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apurbo73" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/apurbo_7350" target="blank"><img align="center" src="https://www.google.com/imgres?q=codechef%20icon%20png%20codechef%20logo%20transparent&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEBvl9IXXUAAztHs.png&imgrefurl=https%3A%2F%2Fx.com%2Fcodechef%2Fstatus%2F1160774168884994048&docid=KfFdIcM5suQEDM&tbnid=ueH3GJoEItX3KM&vet=12ahUKEwj6tvqYxeKNAxVY1TgGHcqQBWcQM3oECF4QAA..i&w=333&h=354&hcb=2&ved=2ahUKEwj6tvqYxeKNAxVY1TgGHcqQBWcQM3oECF4QAA" alt="apurbo73" height="30" width="30" /></a>
 
 
 
