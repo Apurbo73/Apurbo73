@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbo73&label=Profile%20views&color=0e75b6&style=flat" alt="apurbo73" /> </p>
 
 
-- 🌱 I’m currently focusing on **Competitive Programming**
+- 🌱 I’m currently focusing on ** Competitive Programming **
 
 - 💬 Ask me about **C, C++, React, Redux, Redux Toolkit Query, JavaScript, Front-End Developing, MERN Stack**
 
