@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently focusing on ** Competitive Programming **
 
-- 💬 Ask me about **C, C++, React, Redux, Redux Toolkit Query, JavaScript, Front-End Developing, MERN Stack**
+- 💬 Ask me about **C, C++, React, Redux, Redux Toolkit Query, JavaScript, Front-End Developing, MERN Stack **
 
 - 📫 How to reach me **apurbodebnath50@gmail.com**
 
